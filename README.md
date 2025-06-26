@@ -1,6 +1,6 @@
 <div align="center">
 
-## Spoken Digit Detection
+## Grey Wolf Optimization
 
 </div>
 
